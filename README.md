@@ -10,3 +10,6 @@ scikit-learn = 0.20.4
 torch-scatter = 2.0.9
 torch-sparse = 0.6.12
 ```
+
+## DGraph-Fin Dateset
+The dataset [DGraph-Fin](https://dgraph.xinye.com/dataset) should be download and placed in place it under the folder `./dataset/DGraph/raw`.
