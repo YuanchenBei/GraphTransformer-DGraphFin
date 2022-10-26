@@ -12,7 +12,7 @@ torch-sparse = 0.6.12
 ```
 
 ## DGraph-Fin Dateset
-The dataset [DGraph-Fin](https://dgraph.xinye.com/dataset) should be download and placed in place it under the folder `./dataset/DGraph/raw`.
+The dataset [DGraph-Fin](https://dgraph.xinye.com/dataset) should be download and placed under the folder `./dataset/DGraph/raw`.
 
 ## Run Command
 ```{bash}
