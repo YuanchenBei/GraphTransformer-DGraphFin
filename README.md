@@ -1,5 +1,5 @@
 # GraphTransformer-DGraphFin
-This is the Graph Transformer solution for [DGraphFin leaderboard](https://dgraph.xinye.com/leaderboards/dgraphfin).
+This is the Graph Transformer solution for [DGraphFin leaderboard](https://dgraph.xinye.com/leaderboards/dgraphfin), which is the Top-2 solution until July, 2023.
 
 ## Dependencies
 ```{bash}
